@@ -1,0 +1,10 @@
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\bin\Debug\alarmclocktest.exe.config
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\bin\Debug\alarmclocktest.exe
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\bin\Debug\alarmclocktest.pdb
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.csprojResolveAssemblyReference.cache
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.Form1.resources
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.Properties.Resources.resources
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.csproj.GenerateResource.Cache
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.csproj.CoreCompileInputs.cache
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.exe
+C:\Users\agouz\source\repos\alarmclocktest\alarmclocktest\obj\Debug\alarmclocktest.pdb
