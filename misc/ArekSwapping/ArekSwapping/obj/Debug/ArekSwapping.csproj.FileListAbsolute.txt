@@ -1,0 +1,13 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\obj\Debug\ArekSwapping.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSwapping\ArekSwapping\bin\Debug\ArekSwapping.pdb

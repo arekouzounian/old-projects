@@ -1,0 +1,7 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\bin\Debug\ArekCSharpIntro.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\bin\Debug\ArekCSharpIntro.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\bin\Debug\ArekCSharpIntro.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\obj\Debug\ArekCSharpIntro.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\obj\Debug\ArekCSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\obj\Debug\ArekCSharpIntro.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekCSharpIntro\ArekCSharpIntro\obj\Debug\ArekCSharpIntro.pdb

@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\bin\Debug\ArekWarmup1.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\bin\Debug\ArekWarmup1.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\bin\Debug\ArekWarmup1.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\obj\Debug\ArekWarmup1.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\obj\Debug\ArekWarmup1.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\obj\Debug\ArekWarmup1.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekWarmup1\ArekWarmup1\obj\Debug\ArekWarmup1.pdb

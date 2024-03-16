@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\bin\Debug\ArekRandomStringChooser.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\bin\Debug\ArekRandomStringChooser.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\bin\Debug\ArekRandomStringChooser.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\obj\Debug\ArekRandomStringChooser.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\obj\Debug\ArekRandomStringChooser.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\obj\Debug\ArekRandomStringChooser.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRandomStringChooser\ArekRandomStringChooser\obj\Debug\ArekRandomStringChooser.pdb

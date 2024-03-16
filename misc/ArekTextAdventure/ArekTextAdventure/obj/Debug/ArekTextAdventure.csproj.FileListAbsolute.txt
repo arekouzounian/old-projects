@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\bin\Debug\ArekTextAdventure.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\bin\Debug\ArekTextAdventure.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\bin\Debug\ArekTextAdventure.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\obj\Debug\ArekTextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\obj\Debug\ArekTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\obj\Debug\ArekTextAdventure.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventure\ArekTextAdventure\obj\Debug\ArekTextAdventure.pdb

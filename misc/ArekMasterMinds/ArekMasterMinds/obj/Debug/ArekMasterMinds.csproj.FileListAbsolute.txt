@@ -1,0 +1,6 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\bin\Debug\ArekMasterMinds.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\bin\Debug\ArekMasterMinds.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\bin\Debug\ArekMasterMinds.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\obj\Debug\ArekMasterMinds.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\obj\Debug\ArekMasterMinds.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekMasterMinds\ArekMasterMinds\obj\Debug\ArekMasterMinds.pdb

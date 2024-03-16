@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\bin\Debug\ArekLoginWFA.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\bin\Debug\ArekLoginWFA.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\bin\Debug\ArekLoginWFA.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLoginWFA\ArekLoginWFA\obj\Debug\ArekLoginWFA.pdb

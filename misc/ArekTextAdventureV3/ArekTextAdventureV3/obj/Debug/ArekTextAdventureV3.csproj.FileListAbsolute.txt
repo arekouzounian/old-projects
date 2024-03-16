@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\bin\Debug\ArekTextAdventureV3.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\bin\Debug\ArekTextAdventureV3.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\bin\Debug\ArekTextAdventureV3.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekTextAdventureV3\ArekTextAdventureV3\obj\Debug\ArekTextAdventureV3.pdb

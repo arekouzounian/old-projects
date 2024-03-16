@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\bin\Debug\Arek2DArray.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\bin\Debug\Arek2DArray.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\bin\Debug\Arek2DArray.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\obj\Debug\Arek2DArray.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\obj\Debug\Arek2DArray.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\obj\Debug\Arek2DArray.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\Arek2DArray\Arek2DArray\obj\Debug\Arek2DArray.pdb

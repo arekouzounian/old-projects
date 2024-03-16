@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\bin\Debug\ArekDivisibilityTool.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\bin\Debug\ArekDivisibilityTool.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\bin\Debug\ArekDivisibilityTool.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\obj\Debug\ArekDivisibilityTool.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\obj\Debug\ArekDivisibilityTool.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\obj\Debug\ArekDivisibilityTool.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDivisibilityTool\ArekDivisibilityTool\obj\Debug\ArekDivisibilityTool.pdb

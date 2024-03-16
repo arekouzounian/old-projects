@@ -1,0 +1,7 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\obj\Debug\Arek_ReverseGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\obj\Debug\Arek_ReverseGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\bin\Debug\Arek_ReverseGuessingGame.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\bin\Debug\Arek_ReverseGuessingGame.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\bin\Debug\Arek_ReverseGuessingGame.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\obj\Debug\Arek_ReverseGuessingGame.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\Arek_ReverseGuessingGame\Arek_ReverseGuessingGame\obj\Debug\Arek_ReverseGuessingGame.pdb

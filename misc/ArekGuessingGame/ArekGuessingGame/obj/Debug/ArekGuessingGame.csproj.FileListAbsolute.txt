@@ -1,0 +1,6 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\bin\Debug\ArekGuessingGame.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\bin\Debug\ArekGuessingGame.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\bin\Debug\ArekGuessingGame.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\obj\Debug\ArekGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\obj\Debug\ArekGuessingGame.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekGuessingGame\ArekGuessingGame\obj\Debug\ArekGuessingGame.pdb

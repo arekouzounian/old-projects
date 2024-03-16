@@ -1,0 +1,13 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\bin\Debug\ArekShoppingList.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekShoppingList\ArekShoppingList\obj\Debug\ArekShoppingList.pdb

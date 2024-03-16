@@ -1,0 +1,13 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.pdb
+D:\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.exe.config
+D:\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.exe
+D:\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.pdb
+D:\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.exe
+D:\ArekNumberStats\ArekNumberStats\bin\Debug\ArekNumberStats.pdb
+D:\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.csprojResolveAssemblyReference.cache
+D:\ArekNumberStats\ArekNumberStats\obj\Debug\ArekNumberStats.csproj.CoreCompileInputs.cache

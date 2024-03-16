@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\bin\Debug\ArekPong.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\bin\Debug\ArekPong.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\bin\Debug\ArekPong.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekPong\ArekPong\obj\Debug\ArekPong.csprojAssemblyReference.cache

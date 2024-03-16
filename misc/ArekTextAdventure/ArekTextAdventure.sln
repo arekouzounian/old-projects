@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArekTextAdventure", "ArekTextAdventure\ArekTextAdventure.csproj", "{D1405A1E-7112-43F5-9B38-328C4094E9E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1405A1E-7112-43F5-9B38-328C4094E9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1405A1E-7112-43F5-9B38-328C4094E9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1405A1E-7112-43F5-9B38-328C4094E9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1405A1E-7112-43F5-9B38-328C4094E9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4AA269-4319-4C01-A47F-5BDF102AD933}
+	EndGlobalSection
+EndGlobal

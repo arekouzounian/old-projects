@@ -1,0 +1,7 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\bin\Debug\ArekBinaryConversion.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\bin\Debug\ArekBinaryConversion.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\bin\Debug\ArekBinaryConversion.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\obj\Debug\ArekBinaryConversion.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\obj\Debug\ArekBinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\obj\Debug\ArekBinaryConversion.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBinaryConversion\ArekBinaryConversion\obj\Debug\ArekBinaryConversion.pdb

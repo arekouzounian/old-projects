@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\bin\Debug\ArekSnake.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\bin\Debug\ArekSnake.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\bin\Debug\ArekSnake.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekSnake\ArekSnake\obj\Debug\ArekSnake.pdb

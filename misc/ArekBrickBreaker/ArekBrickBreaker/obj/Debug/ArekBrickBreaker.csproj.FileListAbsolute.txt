@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\bin\Debug\ArekBrickBreaker.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\bin\Debug\ArekBrickBreaker.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\bin\Debug\ArekBrickBreaker.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.BrickBreakerWindow.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBrickBreaker\ArekBrickBreaker\obj\Debug\ArekBrickBreaker.pdb

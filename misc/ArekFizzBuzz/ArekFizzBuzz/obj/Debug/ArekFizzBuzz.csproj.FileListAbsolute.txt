@@ -1,0 +1,13 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\bin\Debug\ArekFizzBuzz.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekFizzBuzz\ArekFizzBuzz\obj\Debug\ArekFizzBuzz.pdb

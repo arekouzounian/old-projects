@@ -1,0 +1,14 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\bin\Debug\ArekRockPaperScissors.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekRockPaperScissors\ArekRockPaperScissors\obj\Debug\ArekRockPaperScissors.pdb

@@ -1,0 +1,10 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\bin\Debug\ArekDrawing.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\bin\Debug\ArekDrawing.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\bin\Debug\ArekDrawing.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekDrawing\ArekDrawing\obj\Debug\ArekDrawing.csprojResolveAssemblyReference.cache

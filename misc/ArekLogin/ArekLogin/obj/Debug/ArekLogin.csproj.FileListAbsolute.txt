@@ -1,0 +1,14 @@
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.exe.config
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.pdb
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.exe
+C:\Users\VisitorDL1\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\bin\Debug\ArekLogin.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.csprojResolveAssemblyReference.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekLogin\ArekLogin\obj\Debug\ArekLogin.pdb

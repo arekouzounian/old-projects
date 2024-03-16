@@ -1,0 +1,9 @@
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\bin\Debug\ArekBattleSim.exe.config
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\bin\Debug\ArekBattleSim.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\bin\Debug\ArekBattleSim.pdb
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.Form1.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.Properties.Resources.resources
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.csproj.GenerateResource.Cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.csproj.CoreCompileInputs.cache
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.exe
+C:\Users\agouz\Documents\Visual Studio 2017\Projects\ArekBattleSim\ArekBattleSim\obj\Debug\ArekBattleSim.pdb
