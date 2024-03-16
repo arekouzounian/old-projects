@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{39D57CF5-1908-4581-85A3-017368D0B763}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveBacktrackingMazeGenerator/Maze.cs">
+    <Files>
+      <File FileName="RecursiveBacktrackingMazeGenerator/Form1.cs" Line="1" Column="1" />
+      <File FileName="RecursiveBacktrackingMazeGenerator/Maze.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecursiveBacktrackingMazeGenerator" expanded="True">
+            <Node name="RecursiveBacktrackingMazeGenerator" expanded="True">
+              <Node name="Maze.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RecursiveBacktrackingMazeGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
